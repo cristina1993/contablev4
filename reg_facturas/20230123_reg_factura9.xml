@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0911202201179125123700120015550220193182201931810</numeroAutorizacion>
+<fechaAutorizacion>2022-11-09T11:19:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÃN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CONSORCIO ECUATORIANO DE TELECOMUNICACIONES S.A. CONECEL</razonSocial>
+    <nombreComercial>CLARO</nombreComercial>
+    <ruc>1791251237001</ruc>
+    <claveAcceso>0911202201179125123700120015550220193182201931810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>555</ptoEmi>
+    <secuencial>022019318</secuencial>
+    <dirMatriz>Guayaquil, Kennedy Norte,Av.Fco De Orellana  S/N y Av.Alberto Borges, Ed. Centrum,Planta baja,piso 1, 2, 3 y 4</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>09/11/2022</fechaEmision>
+    <dirEstablecimiento>Cdla. Kennedy Norte, Av. Francisco de Orellana S/N y Av. Alberto Borges, Edif. Centrum - Guayaquil</dirEstablecimiento>
+    <contribuyenteEspecial>5368</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>CAIZA CRISTIAN</razonSocialComprador>
+    <identificacionComprador>1724396807</identificacionComprador>
+    <direccionComprador>QUITO</direccionComprador>
+    <totalSinImpuestos>2.68</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>2.68</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>0.32</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>3.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>3.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PVIR</codigoPrincipal>
+      <descripcion>PVIRTUAL</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>0.892857</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>2.68</baseImponible>
+          <valor>0.32</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="correoCliente">PREPAGO@NOTIENE.COM</campoAdicional>
+    <campoAdicional nombre="telefonoCliente">939446840</campoAdicional>
+    <campoAdicional nombre="TipoOrden">08</campoAdicional>
+    <campoAdicional nombre="Compania">2</campoAdicional>
+    <campoAdicional nombre="NumeroFactura">163282270</campoAdicional>
+    <campoAdicional nombre="valorPendienteDePago">3.00</campoAdicional>
+    <campoAdicional nombre="Producto">CAJA</campoAdicional>
+    <campoAdicional nombre="dirEstab">Cdla. Kennedy Norte, Av. Francisco de Orellana S/N y Av. Alberto Borges, Edif. Centrum - Guayaquil</campoAdicional>
+    <campoAdicional nombre="dirCliente">QUITO</campoAdicional>
+    <campoAdicional nombre="ciuVenIpaDpa">GUAYAQUIL;10;148;CXC PICHINCHA</campoAdicional>
+    <campoAdicional nombre="noOrden">177845622</campoAdicional>
+    <campoAdicional nombre="comentario">Venta Banco PICHINCHA</campoAdicional>
+    <campoAdicional nombre="referencia">Venta Banco PICHINCHA</campoAdicional>
+    <campoAdicional nombre="totalsImp">0.00;0.00;2.68;0.32;0.00</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature156126">
+<ds:SignedInfo Id="Signature-SignedInfo326933">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID486973" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature156126-SignedProperties712731">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>740bGygaufcG68buUMaOir0lkZE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1246731">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>n0rJ+v5slRFS7pqmf9ToEZRun5I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-648449" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ODJgfIKqsT766Si1xtCh5l3pWrk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue43729">
+SECANie5kU2dK3J5tPngM2dmDi10Mm+JyoUgCBU95tKobobI0ddVIdnVY+MSS6jJ/qMLbgquw85H
+gDRw91n0C1YJAFU5t8BVSgWHyDpmwGsJ2Tf2fvMds/AH/efl+HO3f5Oo9mu4kUzZMyf9GdmCcFhp
+hpLAz0GIt+PYdQhpur53DK2qrRygSw7MF1if2eWlVZirRF7Au6Bbdamm/tlJ1llT3JYltoG/FjDP
+kAqdfNny/dA/Xc4WrwbDK0YFPdqwM8y0etymX3woykqaH60eDF5foTXjcRI0uTKtFvidMIO+2Ism
+H+pSOK3aZHaYo+p38tmH4QI+3TqGCgQNP+V8WA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1246731">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMQjCCCiqgAwIBAgIEKRZH2jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTEwMTQxNTUxMTRaFw0yMzEwMTQxNTUxMTRaMIGbMSQw
+IgYDVQQDDBtNQVJJTyBBTlRPTklPIEFZQ0FSVCBMRUNBUk8xFTATBgNVBAUTDDE0MTAyMTExMDEw
+NjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC1jiFkI1BhYGbwIbXhP1dQXMW7AryN7i2HG//kzfVelqg0jvqAoN+a+GD/
+XDI+mRyg7KGGNvCx8skZfE05r5uOwHvHdVNsY1z4twZpgc6vz9XyMMG38iCp3y/8R7KWHa8v7DTy
+KgYzvgTXuWd2zI3HrMRZX5Aquw9aIvRbWe3Fm/koj1U2SFByXVj96GzwrWF9vML7s+a56J1xd8Jq
+9/9ap/9Y/YnJKMbIQwrD7GeRcN+9vEPZyxlHld5NqjVnTWQehjc5m9JQ6edhDfOFvR8yMPslw6Jw
+alaYjyZK8TO2NY6EGlgYXNA7O1RqyAHfddloCggZPFYpdnPN4amobLwVAgMBAAGjggeMMIIHiDAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEB
+BE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xk
+YXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/
+YmFzZTAfBgNVHREEGDAWgRRtYXljYXJ0QGNsYXJvLmNvbS5lYzCCARIGA1UdIASCAQkwggEFMGAG
+CisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABl
+ACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEw
+gY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50
+L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0
+aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1o
+dHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0y
+IFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHE
+oIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRp
+ZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJh
+ZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0
+P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VD
+VVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1T
+RUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSeXXTG2zUHe6el9+LXg1fkD8ZKSzAr
+BgNVHRAEJDAigA8yMDIxMTAxNDE1NTExNFqBDzIwMjMxMDE0MTU1MTE0WjALBgNVHQ8EBAMCBeAw
+LwYKKwYBBAGCpnIDBQQhDB9KRUZFIERFIEJJTExJTkcgRSBJTlRFUkNPTkVYSU9OMBoGCisGAQQB
+gqZyAwEEDAwKMDkxNzM3NjgyNDAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKm
+cgMiBAMMAS4wQgYKKwYBBAGCpnIDBwQ0DDJBVi4gRlJBTkNJU0NPIERFIE9SRUxMQU5BIFMgTiBZ
+IEFWLiBBTEJFUlRPIEJPUkdFUzAdBgorBgEEAYKmcgMCBA8MDU1BUklPIEFOVE9OSU8wHwYKKwYB
+BAGCpnIDIAQRDA8wMDIwMDEwMDAyNTUwODMwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGQVlDQVJUMEgGCisGAQQBgqZyAwoEOgw4
+Q09OU09SQ0lPIEVDVUFUT1JJQU5PIERFIFRFTEVDT01VTklDQUNJT05FUyBTLkEuIENPTkVDRUww
+HQYKKwYBBAGCpnIDCwQPDA0xNzkxMjUxMjM3MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFgYKKwYB
+BAGCpnIDBAQIDAZMRUNBUk8wGgYKKwYBBAGCpnIDCAQMDAowOTk5NDIwMDE3MA0GCSqGSIb3DQEB
+CwUAA4ICAQBe77br3nW2qq1EpnppFMk7Lc6Oyc4t11Y5tBf2S3rTdXDJX2wq9aaE5JAqn4mdw/wt
+5O3xpaeIZu7ztlU7xRSqWBkUBt+C6uE0Za/eUjfvLhZthKOQXIqtPyUcRfXisIiMuterAdzBiu+m
+PpR+q35Q3cp3qMkxsMmC0Kd7NnRXQtenmZkmrIpttUkKpzGskp6OCgGUTQAfCSprQ8Ja+YuJyjtz
+6hjITX5zS8ZKeOFIYOvWdjrsCGXjO+D4un5U9nR3RTWqQG5v0Qyozamo7NaHeaLYIf5w9APHFZpO
+bvdVyg9/0d9XrKUETgLmQqn3VbAAeQIyj2HdRKzqh3/uR+7nPCg2DtIwhQq+ytl0KxUgxyaDfXvB
+doLYnz7wxJ7CplFKE1PCWW035NnHmcx+PiQbVTIe5OSFaMAWnbNCmMIk6D8zhsWAW+85rD7h2w1+
+E5aDJfugoyMBhiTrsTWsA+67RMUaxwVVOei5kPbGmnybBz79vwxWUnpCod6jP/mUC9rtxSTugvB6
+y2qoAGK4qeIzBtd7m13x5Y+iVdXMQhj9hW8ikzq9ya/6BLlpts57fM5VBMC9yIkOryGi6uGibSIW
+m/n4JdpcGdNkWZtPeon60+InYzPwE/sugSojzR4LyZY08O8j9TAwptQlUmXRfgJ7R/0+Kidcal1e
+jGtyoFz1ug==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tY4hZCNQYWBm8CG14T9XUFzFuwK8je4thxv/5M31XpaoNI76gKDfmvhg/1wyPpkcoOyhhjbwsfLJ
+GXxNOa+bjsB7x3VTbGNc+LcGaYHOr8/V8jDBt/Igqd8v/Eeylh2vL+w08ioGM74E17lndsyNx6zE
+WV+QKrsPWiL0W1ntxZv5KI9VNkhQcl1Y/ehs8K1hfbzC+7PmueidcXfCavf/Wqf/WP2JySjGyEMK
+w+xnkXDfvbxD2csZR5XeTao1Z01kHoY3OZvSUOnnYQ3zhb0fMjD7JcOicGpWmI8mSvEztjWOhBpY
+GFzQOztUasgB33XZaAoIGTxWKXZzzeGpqGy8FQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature156126-Object823771"><etsi:QualifyingProperties Target="#Signature156126"><etsi:SignedProperties Id="Signature156126-SignedProperties712731"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-11-09T11:15:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ciCl036KQlfocctahp9xVczzOYQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>689326042</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-648449"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

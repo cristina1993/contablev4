@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+					<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PATERWIL IMPORT S C</razonSocial>
+    <ruc>1792484103001</ruc>
+    <claveAcceso>1912202201179248410300120010020000194880001948815</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000019488</secuencial>
+    <dirMatriz>DE LOS HELECHOS SN Y SANTA LUCIA</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>19/12/2022</fechaEmision>
+    <dirEstablecimiento>DE LOS HELECHOS SN Y SANTA LUCIA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>TIKVASYST S A S</razonSocialComprador>
+    <identificacionComprador>1793105742001</identificacionComprador>
+    <direccionComprador>DE LOS HELECHOS E5-134 Y AV ELOY ALFARO</direccionComprador>
+    <totalSinImpuestos>29.03</totalSinImpuestos>
+    <totalSubsidio>0.00</totalSubsidio>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>29.03</baseImponible>
+        <valor>3.48</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>32.51</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>32.51</total>
+        <plazo>4</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+    <valorRetIva>0.00</valorRetIva>
+    <valorRetRenta>0.00</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>690018</codigoPrincipal>
+      <descripcion>PAPEL HIGIENICO BIO 200MT PAQ X 4</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>9.950000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.95</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>9.95</baseImponible>
+          <valor>3.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ABS0209</codigoPrincipal>
+      <descripcion>TOALLA Z SANITISU NATURAL  2H 23X23 PAQ 150</descripcion>
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>1.720000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.88</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>6.88</baseImponible>
+          <valor>3.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>20088</codigoPrincipal>
+      <descripcion>DESINFECTANTE OZZ CUATERNARIO GALON FANTASIA MARINA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.300000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>5.30</baseImponible>
+          <valor>3.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>440005</codigoPrincipal>
+      <descripcion>JABON LIQUIDO ANTIBACTERIAL FLORAL 800 ML.</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>3.450000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>6.90</baseImponible>
+          <valor>3.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">tivkasystems@hotmail.com,factelectronicapaterwill@gmail.com</campoAdicional>
+    <campoAdicional nombre="direccionCliente">DE LOS HELECHOS E5-134 Y AV ELOY ALFARO</campoAdicional>
+    <campoAdicional nombre="TelÃ©fono:">0999404989</campoAdicional>
+    <campoAdicional nombre="Referencia:">PF10000501</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature860925">
+<ds:SignedInfo Id="Signature-SignedInfo970699">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID229328" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature860925-SignedProperties444836">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>oFnHDPDBfJDvXuD2C85fCohP/t0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1585225">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>bzq1/anxazE85FHnuaubulguvpI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-377042" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>BKOo6N0lneAEUe3VnrnIeufkY8A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue512313">
+FYbm+R+uwcs5ONPa4zjsD/DrHBHrRe0+aVcQaw8rniWFcspsIyanGBI6XZm/4WLZpUxCEPErRFbW
+woWdc4cbJrAAqQU+t6qckWjiKt8iSlF/qT/K/oIJPJ5dy+1fi8H1IRqk1pwQTF4gJ8NGj4j05Svx
+kKm/ZzZZ0nG78nOV2rYiDhknkJmHj8s+50eLc6kZKZluCZ431J2uXlZ2e3lAmjY4WQyabjaRqMAi
+OXBafX7h6qCVV3Jw11VucTghfyiMOXiD/idEisEFIxcLo3jpPyy5nBOcpWlR1gNEVYBs0ytKhF0l
+o58iXYgdEN6VoCs0Lj/Ey251OgDjajxRZxoFlw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1585225">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMBDCCCeygAwIBAgIEX6znqjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA4MjMyMjAyMzBaFw0yMzA4MjMyMjAyMzBaMIGaMSMw
+IQYDVQQDDBpQQVRFUlNPTiBBTklCQUwgTUlOTyBSVUVEQTEVMBMGA1UEBRMMMjMwODIyMTcxMjAw
+MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAK8eV3LhK9q4mWLIMAhwhb2l6DEd/OzxAgiT8zE8+nTqY2TmZsw5+xGpbswd
++94UAHtxFo1r6PH8D9n8IlFkmJyPa/VEpWjsZlgTE3G3Ch6UIjS3CzV0Hptd7ENOu976q1cgxIbq
+ZY5+kup2K3vKcICZhcY8qsTfuCdi0AkNN+hP+/v37PKE31Pu3uRYbjoROWKOLw1nJ1t4JE8YuVTY
+MyusoIFlqo72xiHiK0E0YoUKYGytZaojgDiKCUpIB+4Q5mud1eXXx8UHpAeAlvGAB9KyQI3fVN83
+746y8/hGaiul+WfuxzcnMBQC6n0/0+odMc8aaA8aitwMf+qTKCHBxOMCAwEAAaOCB08wggdLMAwG
+A1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEE
+TTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRh
+cHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9i
+YXNlMCoGA1UdEQQjMCGBH3BhdHJpY2lhLm1hbnJpcXVlQHNlcm1hdGljay5jb20wggEVBgNVHSAE
+ggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisG
+AQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0
+aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkw
+ggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczov
+L3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2Vi
+ZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUnEGZZ2S0i6hP
+Uvy6omW9OPk/jHMwKwYDVR0QBCQwIoAPMjAyMjA4MjMyMjAyMzBagQ8yMDIzMDgyMzIyMDIzMFow
+CwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZy
+AwEEDAwKMTcxMTc1MTYzNDAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIEAwwB
+LjAwBgorBgEEAYKmcgMHBCIMIERFIExPUyBIRUxFQ0hPUyBTTiBZIFNBTlRBIExVQ0lBMB8GCisG
+AQQBgqZyAwIEEQwPUEFURVJTT04gQU5JQkFMMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNDA3
+NzExMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAUBgorBgEE
+AYKmcgMDBAYMBE1JTk8wJAYKKwYBBAGCpnIDCgQWDBRQQVRFUldJTCBJTVBPUlQgUy5DLjAdBgor
+BgEEAYKmcgMLBA8MDTE3OTI0ODQxMDMwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAVBgorBgEEAYKm
+cgMEBAcMBVJVRURBMBoGCisGAQQBgqZyAwgEDAwKMDkyMjgwNTQ5MjANBgkqhkiG9w0BAQsFAAOC
+AgEAmFD7U4HD5Fw8bT3BcRGOFlgDaqK8pwlmUh9TAyspn6I8bBwUmVwvMZDsLZbD2RB1j8b3jmy6
+vO1O/bmw460XOhkCKdpUPIvtyQwXBpPMIC1kQ1n60vNyA1U6PCsIPn4SeVlUsCt08vkTp5UxWtlz
+nOZmWoC3xRnSiZdDjhwAhwxQqSOfhrdZnqWvkQ8HKsqaRc5wU2U0pU49QCLw1Gmq8D27samnpvwW
+mt2DPJC+fPi4J6XjuDadXoos1ZWFuSvfkrY6VveXINVh/61UeTG0d4uoSu++/XlfMfy+3m/FBX14
+CyGr8zvLCwMbJGUKqyaeaGF0Ybn9DxjueU7dqs+aCwJHp8BC0WaDcpE1al0eyXUM7h58iSu221dv
+ROzqOU8K/84LhwGfanMHE4p2+0P09cYSGcMsyzZHkPOgHvtsJzdgjl1r47lEsKFPhvSTbrdSqeIB
+q8mRbFiBRGRxmcUD49Cekv0f5ZZolJuIytovdbDXTVQYBMSbyR9IJcQK4vq0BJ4kyhWQ61VQdbmM
+xMWBEPQJcMYZEXaSINrDhrLT5YIbAgf2ObdWc2KEmL3uDTpnj7e6vuqI0I3364UNp7GC2meOyMQH
+WB/WJ6NhqZ35xFo76q0L1ql7vW7bXNQqsHBWLkc9fvHMjAEWIPcU+3S4xtotx72/9hVewtcHLTF5
+IBI=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rx5XcuEr2riZYsgwCHCFvaXoMR387PECCJPzMTz6dOpjZOZmzDn7EaluzB373hQAe3EWjWvo8fwP
+2fwiUWSYnI9r9USlaOxmWBMTcbcKHpQiNLcLNXQem13sQ0673vqrVyDEhupljn6S6nYre8pwgJmF
+xjyqxN+4J2LQCQ036E/7+/fs8oTfU+7e5FhuOhE5Yo4vDWcnW3gkTxi5VNgzK6yggWWqjvbGIeIr
+QTRihQpgbK1lqiOAOIoJSkgH7hDma53V5dfHxQekB4CW8YAH0rJAjd9U3zfvjrLz+EZqK6X5Z+7H
+NycwFALqfT/T6h0xzxpoDxqK3Ax/6pMoIcHE4w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature860925-Object732054"><etsi:QualifyingProperties Target="#Signature860925"><etsi:SignedProperties Id="Signature860925-SignedProperties444836"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-12-21T11:19:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ungISbPASl1Q7r+4nGbaGz4B0PA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1605167018</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-377042"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
