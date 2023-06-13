@@ -15,7 +15,7 @@ use FontLib\Exception\FontNotFoundException;
  *
  * @package php-font-lib
  */
-class Font {
+class Font  {
   static $debug = false;
 
   /**

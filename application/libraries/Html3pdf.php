@@ -132,30 +132,7 @@ class Html3pdf {
 		if (is_null($this->orientation)) {
 			show_error("Orientation not set");
 		}
-	    
-	    //Load the DOMPDF libary
-	 //    require_once("dompdf/dompdf_config.inc.php");
-	    
-	 //    $dompdf = new DOMPDF();
-	 //    $dompdf->load_html($this->html);
-	 //    $dompdf->set_paper($this->paper_size, $this->orientation);
-	 //    $dompdf->render();
-	    
-	 //    if($mode == 'save') {
-  //   	    $this->CI->load->helper('file');
-		//     if(write_file($this->path.$this->filename, $dompdf->output())) {
-		//     	return $this->path.$this->filename;
-		//     } else {
-		// 		show_error("PDF could not be written to the path");
-		//     }
-		// } else {
-			
-		// 	if($dompdf->stream($this->filename)) {
-		// 		return TRUE;
-		// 	} else {
-		// 		show_error("PDF could not be streamed");
-		// 	}
-	 //    }
+
 		ob_start();
 		header('Content-Type: text/html; charset=UTF-8');
 		 include_once('tcpdf/tcpdf.php');

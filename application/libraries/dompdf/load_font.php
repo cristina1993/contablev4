@@ -9,6 +9,8 @@
  */
 
 require_once "dompdf_config.inc.php";
+require_once "lib/php-font-lib/classes/Autoloader.php";
+use FontLib\Font;
 
 /**
  * Display command line usage
