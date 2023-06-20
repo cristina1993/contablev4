@@ -76,6 +76,7 @@ class Anular_ctasxpagar extends CI_Controller {
 					'fec1'=>$f1,
 					'fec2'=>$f2,
 					'dec'=>$this->configuracion_model->lista_una_configuracion('2'),
+					'cre_aut'=>$this->configuracion_model->lista_una_configuracion('32')
 				);
 		$this->load->view('layout/header',$this->menus());
 		$this->load->view('layout/menu',$this->menus());
